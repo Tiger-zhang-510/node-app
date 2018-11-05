@@ -1,0 +1,50 @@
+{
+    "_id": "5aff8f37d97381062fb10892",
+    "user": "5afd38eeb886f50f4320e6c1",
+    "handle": "test",
+    "company": "西安电子科技大学",
+    "website": "https://blog.csdn.net/weixin_42158115",
+    "location": "西安",
+    "status": "前端开发",
+    "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Vue.js",
+        "Node.js"
+    ],
+    "bio": "从事web前端开发, 拥有自己的博客和GitHub项目",
+    "githubusername": "www.github.com/Zhuhu510579812",
+    "experience": [
+        {
+            "current": true,
+            "_id": "5aff9079d97381062fb10894",
+            "title": "一年前端开发经验",
+            "company": "厦门亿联网络有限公司",
+            "location": "厦门",
+            "from": "2018-7-1T18:14:00.000Z",
+            "to": "2019-7-1T18:14:00.000Z",
+            "description": "设定代码规范, 任务分配, 代码优化等工作"
+        }
+    ],
+    "education": [
+        {
+            "current": false,
+            "_id": "5aff9153d97381062fb10895",
+            "school": "西安电子科技大学",
+            "degree": "本科生",
+            "fieldofstudy": "信息对抗技术",
+            "from": "2015-9-1T18:14:00.000Z",
+            "to": "2019-6-31T18:14:00.000Z",
+            "description": "在校期间,表现优异, 并有上线作品."
+        }
+    ],
+    "social": {
+        "wechat": "zh85748447",
+        "QQ": "510579812",
+        "tengxunkt": "https://510579812.qq.com/",
+        "wangyikt": "http://18292851838.163.com"
+    },
+    "date": "2019-05-19T02:43:03.029Z",
+    "__v": 2
+}
